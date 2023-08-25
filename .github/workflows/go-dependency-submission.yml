@@ -1,4 +1,4 @@
-- name: Go Dependency Submission
+  name: Go Dependency Submission
   uses: actions/go-dependency-submission@v1.0.3
   with:
     # GitHub Personal Access Token (PAT). Defaults to PAT provided by Action runner
